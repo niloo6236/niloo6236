@@ -41,5 +41,5 @@ Passionate about turning data into insights through analysis and visualization.
 
 ---
 
-## 📫 Connect With Me
+## 📫 GitHub Profile
 - GitHub: https://github.com/niloo6236
